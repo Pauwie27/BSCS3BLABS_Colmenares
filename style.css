@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.aboutMe {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px 20px;    
+    color: blueviolet;  
+    text-align: center;  
+    background-color: yellow;
+}
+
+.Name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: violet;
+}
+.aboutYourself{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px 20px;    
+    color: purple;  
+    text-align: center;  
+    background-color: greenyellow;
+    font-size: larger;
+}
+
+.SUSSY{
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+.Subjects{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 600px;    
+    color: red;  
+    text-align: left;  
+    
+}
+
+.favoriteFood{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 600px;    
+    color: green;  
+    text-align: left;  
+    
+}
+
+.Accounts{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 600px;    
+    color: lightblue;  
+    text-align: left;  
+    
+}
